@@ -274,6 +274,7 @@
 
 button {
   padding: 5px 10px;
+  background: ghostwhite;
   color: var(--overlay-color);
   border-radius: 5px;
 }
